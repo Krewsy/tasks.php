@@ -1,3 +1,10 @@
++ Added docker-compose.yml
++ Adjusted redirect time to .5 seconds(from 2 seconds)
++ Set default language to en
++ Added an autofocus to the task input field
+
+#Original README
+---
 # PHP Task/Todo list
 
 ## Info
