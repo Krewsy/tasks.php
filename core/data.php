@@ -22,7 +22,7 @@ $dateformat = date('d-m-Y'); //Date format
 $auth = true; //need auth?
 
 //With ajax?
-$ajax = true;
+$ajax = false;
 
 //Errors
 error_reporting(0);

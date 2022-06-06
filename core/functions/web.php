@@ -12,7 +12,7 @@ function redirect($page = "index.php")
     echo '<script type="text/javascript">
             setTimeout(function(){
                  window.location = "' . $page . '"
-            },2000);
+            },500);
           </script>';
 }
 
